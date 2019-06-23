@@ -1,11 +1,10 @@
-
-define r = Character("Insert Red herring here")
-define k = Character("Insert killer here")
-define w = Character("Insert first witness here")
-define w2 = Character("Insert second witness here")
+define r = Character("Tom Nook")
+define k = Character("Isabelle")
+define w = Character("Hazel")
+define w2 = Character("Kitty")
 define w3 = Character("Insert Third witness here")
 define m = Character("Insert main character here")
-define v = Character("Insert Victim here")
+define v = Character("Mayor")
 define game = Character("    ", color="#009900", what_color="#009900")
 define player_name = ("[player_name]")
 
